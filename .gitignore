@@ -1,0 +1,17 @@
+# ide config files
+.vscode
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+
+# Original csv data
+csv-data
